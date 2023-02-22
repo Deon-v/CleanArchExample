@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "bl32FHola+CdAGu4qcV7KbLnRnNTYkJJ/sgmmRzEH3JUlN8hpjivSFJ2Fm2zdVpQdDCxcJJl3XGSlEmHyG3fSg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Api\\CleanArchExample.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\6.0.13\\microsoft.aspnetcore.components.webassembly.server.6.0.13.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\Client\\CleanArchExample.Client.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\Client\\CleanArchExample.Client.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\Shared\\CleanArchExample.Shared.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\Shared\\CleanArchExample.Shared.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

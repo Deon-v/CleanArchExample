@@ -1,0 +1,158 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Microsoft.AspNetCore.Components.WebAssembly.Server/6.0.13": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.WebAssembly.Server.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.WebAssembly.Server.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ],
+        "build": {
+          "build/Microsoft.AspNetCore.Components.WebAssembly.Server.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.AspNetCore.Components.WebAssembly.Server/6.0.13": {
+      "sha512": "avgwOnk+6hNbbXwImjD3vaBW+ePJgTQ7iAa+NYlgFRmw9fuEiz0LpSBobyzIiDu/gyVwgVQszDZjItwU1MBGCA==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.components.webassembly.server/6.0.13",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.txt",
+        "build/Microsoft.AspNetCore.Components.WebAssembly.Server.targets",
+        "lib/net6.0/Microsoft.AspNetCore.Components.WebAssembly.Server.dll",
+        "lib/net6.0/Microsoft.AspNetCore.Components.WebAssembly.Server.xml",
+        "microsoft.aspnetcore.components.webassembly.server.6.0.13.nupkg.sha512",
+        "microsoft.aspnetcore.components.webassembly.server.nuspec",
+        "tools/BlazorDebugProxy/BrowserDebugHost.dll",
+        "tools/BlazorDebugProxy/BrowserDebugHost.runtimeconfig.json",
+        "tools/BlazorDebugProxy/BrowserDebugProxy.dll",
+        "tools/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.dll",
+        "tools/BlazorDebugProxy/Microsoft.CodeAnalysis.dll",
+        "tools/BlazorDebugProxy/Newtonsoft.Json.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\Client\\CleanArchExample.Client.csproj",
+      "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\Shared\\CleanArchExample.Shared.csproj",
+      "Microsoft.AspNetCore.Components.WebAssembly.Server >= 6.0.13"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DVanVuuren\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Api\\CleanArchExample.Api.csproj",
+      "projectName": "CleanArchExample.Api",
+      "projectPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Api\\CleanArchExample.Api.csproj",
+      "packagesPath": "C:\\Users\\DVanVuuren\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\DVanVuuren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\Client\\CleanArchExample.Client.csproj": {
+              "projectPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\Client\\CleanArchExample.Client.csproj"
+            },
+            "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\Shared\\CleanArchExample.Shared.csproj": {
+              "projectPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\Shared\\CleanArchExample.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+            "target": "Package",
+            "version": "[6.0.13, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\Client\\CleanArchExample.Client.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\Client\\CleanArchExample.Client.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\Shared\\CleanArchExample.Shared.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\Shared\\CleanArchExample.Shared.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
