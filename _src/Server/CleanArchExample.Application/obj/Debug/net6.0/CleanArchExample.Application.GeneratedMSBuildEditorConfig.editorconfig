@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CleanArchExample.Application
-build_property.ProjectDir = C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Application\
+build_property.ProjectDir = D:\Projects\CleanArchExample\_src\Server\CleanArchExample.Application\

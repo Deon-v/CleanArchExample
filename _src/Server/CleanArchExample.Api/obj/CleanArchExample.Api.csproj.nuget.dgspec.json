@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Api\\CleanArchExample.Api.csproj": {}
+    "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Api\\CleanArchExample.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Api\\CleanArchExample.Api.csproj": {
+    "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Api\\CleanArchExample.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Api\\CleanArchExample.Api.csproj",
+        "projectUniqueName": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Api\\CleanArchExample.Api.csproj",
         "projectName": "CleanArchExample.Api",
-        "projectPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Api\\CleanArchExample.Api.csproj",
-        "packagesPath": "C:\\Users\\DVanVuuren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Api\\obj\\",
+        "projectPath": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Api\\CleanArchExample.Api.csproj",
+        "packagesPath": "C:\\Users\\vanvu\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DVanVuuren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vanvu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Application\\CleanArchExample.Application.csproj": {
-                "projectPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Application\\CleanArchExample.Application.csproj"
+              "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Application\\CleanArchExample.Application.csproj": {
+                "projectPath": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Application\\CleanArchExample.Application.csproj"
               },
-              "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Infrastructure\\CleanArchExample.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Infrastructure\\CleanArchExample.Infrastructure.csproj"
+              "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Infrastructure\\CleanArchExample.Infrastructure.csproj": {
+                "projectPath": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Infrastructure\\CleanArchExample.Infrastructure.csproj"
               }
             }
           }
@@ -80,24 +80,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Application\\CleanArchExample.Application.csproj": {
+    "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Application\\CleanArchExample.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Application\\CleanArchExample.Application.csproj",
+        "projectUniqueName": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Application\\CleanArchExample.Application.csproj",
         "projectName": "CleanArchExample.Application",
-        "projectPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Application\\CleanArchExample.Application.csproj",
-        "packagesPath": "C:\\Users\\DVanVuuren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Application\\obj\\",
+        "projectPath": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Application\\CleanArchExample.Application.csproj",
+        "packagesPath": "C:\\Users\\vanvu\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DVanVuuren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vanvu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -113,8 +113,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj": {
-                "projectPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj"
+              "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj": {
+                "projectPath": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj"
               }
             }
           }
@@ -154,24 +154,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj": {
+    "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj",
+        "projectUniqueName": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj",
         "projectName": "CleanArchExample.Domain",
-        "projectPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj",
-        "packagesPath": "C:\\Users\\DVanVuuren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\obj\\",
+        "projectPath": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj",
+        "packagesPath": "C:\\Users\\vanvu\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DVanVuuren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vanvu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -214,24 +214,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Infrastructure\\CleanArchExample.Infrastructure.csproj": {
+    "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Infrastructure\\CleanArchExample.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Infrastructure\\CleanArchExample.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Infrastructure\\CleanArchExample.Infrastructure.csproj",
         "projectName": "CleanArchExample.Infrastructure",
-        "projectPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Infrastructure\\CleanArchExample.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\DVanVuuren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Infrastructure\\obj\\",
+        "projectPath": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Infrastructure\\CleanArchExample.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\vanvu\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DVanVuuren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vanvu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -247,11 +247,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Application\\CleanArchExample.Application.csproj": {
-                "projectPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Application\\CleanArchExample.Application.csproj"
+              "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Application\\CleanArchExample.Application.csproj": {
+                "projectPath": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Application\\CleanArchExample.Application.csproj"
               },
-              "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj": {
-                "projectPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj"
+              "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj": {
+                "projectPath": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj"
               }
             }
           }
@@ -303,7 +303,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

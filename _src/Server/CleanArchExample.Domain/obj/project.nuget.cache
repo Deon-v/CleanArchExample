@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nssMVKLM48+U6rZ2MQ4Zcrus5b/nLd7jYvkLJUGnpJygqS9ce/PWBB+YRg8M0szdBlMhC8oxYSNDe5V+IFDX0A==",
+  "dgSpecHash": "ZwPkq+oUe0XTWrHkm/x59ysmyPcq5c+p/CWY2VlID8xH5XpbI8bY7ZmhTXbmlCGsoZApshIIE0dUnuJJ4x0YGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj",
+  "projectFilePath": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

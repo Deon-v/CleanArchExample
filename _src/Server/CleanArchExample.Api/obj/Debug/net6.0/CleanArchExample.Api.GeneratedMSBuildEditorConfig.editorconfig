@@ -9,13 +9,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CleanArchExample.Api
 build_property.RootNamespace = CleanArchExample.Api
-build_property.ProjectDir = C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Api\
+build_property.ProjectDir = D:\Projects\CleanArchExample\_src\Server\CleanArchExample.Api\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Api
+build_property.MSBuildProjectDirectory = D:\Projects\CleanArchExample\_src\Server\CleanArchExample.Api
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/DVanVuuren/source/repos/CleanArchExample/_src/Server/CleanArchExample.Api/Pages/Error.cshtml]
+[D:/Projects/CleanArchExample/_src/Server/CleanArchExample.Api/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

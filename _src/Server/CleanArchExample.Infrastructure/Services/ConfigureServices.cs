@@ -12,6 +12,7 @@ namespace CleanArchExample.Infrastructure.Services
     {
         internal static IServiceCollection AddExternalServices(this IServiceCollection services, IConfiguration configuration)
         {
+            services.AddLazyCache();
             services.AddScoped<IWeatherService,WeatherService>();
             services.AddScoped<ICachedWeatherApi,CachedWeatherApi>();
 

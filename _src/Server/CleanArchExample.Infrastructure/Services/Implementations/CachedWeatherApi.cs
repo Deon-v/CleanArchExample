@@ -9,9 +9,10 @@ public class CachedWeatherApi : ICachedWeatherApi
     private readonly IWeatherService _weatherService;
     private readonly IAppCache _appCache;
 
-    public CachedWeatherApi(IWeatherService weatherService)
+    public CachedWeatherApi(IWeatherService weatherService, IAppCache appCache)
     {
         _weatherService = weatherService;
+        _appCache = appCache;
     }
 
     public async Task<ICollection<WeatherForecast>> GetWeatherForecastsAsync(string city)

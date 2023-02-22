@@ -10,3 +10,15 @@ C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.D
 C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\refint\CleanArchExample.Domain.dll
 C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\CleanArchExample.Domain.pdb
 C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\ref\CleanArchExample.Domain.dll
+D:\Projects\CleanArchExample\_src\Server\CleanArchExample.Domain\bin\Debug\net6.0\CleanArchExample.Domain.deps.json
+D:\Projects\CleanArchExample\_src\Server\CleanArchExample.Domain\bin\Debug\net6.0\CleanArchExample.Domain.dll
+D:\Projects\CleanArchExample\_src\Server\CleanArchExample.Domain\bin\Debug\net6.0\CleanArchExample.Domain.pdb
+D:\Projects\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\CleanArchExample.Domain.csproj.AssemblyReference.cache
+D:\Projects\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\CleanArchExample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\CleanArchExample.Domain.AssemblyInfoInputs.cache
+D:\Projects\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\CleanArchExample.Domain.AssemblyInfo.cs
+D:\Projects\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\CleanArchExample.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\CleanArchExample.Domain.dll
+D:\Projects\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\refint\CleanArchExample.Domain.dll
+D:\Projects\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\CleanArchExample.Domain.pdb
+D:\Projects\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\ref\CleanArchExample.Domain.dll

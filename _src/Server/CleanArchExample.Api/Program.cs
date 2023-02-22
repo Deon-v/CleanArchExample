@@ -18,9 +18,10 @@ namespace CleanArchExample.Api
             builder.Services.AddScoped<ICurrentUserService, CurrentUserService>();
             // Add services to the container.
 
+            builder.Services.AddFastEndpoints();
             builder.Services.AddControllersWithViews();
             builder.Services.AddRazorPages();
-            builder.Services.AddFastEndpoints();
+            
 
             var app = builder.Build();
 
