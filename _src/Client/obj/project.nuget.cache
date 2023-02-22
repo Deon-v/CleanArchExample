@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "WRgCq2OYNAax83HMH4Btqe0QvyIjvURR5yjQ1EqR+fy5UYRSPLihF87H6J1iPP9sQUOqODqdJyEn9w9zEC9wlw==",
-  "success": false,
+  "dgSpecHash": "mjAOEs9htFmyexTY2bcSrUwTeIL9JMVhqAG2fxiQybAfJbYWh/ZiBphNumIkvLL+2aU5BOWqs0DNjgSi7s3bNw==",
+  "success": true,
   "projectFilePath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Client\\CleanArchExample.Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.13\\microsoft.aspnetcore.authorization.6.0.13.nupkg.sha512",
-    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.13\\microsoft.aspnetcore.components.6.0.13.nupkg.sha512",
-    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.13\\microsoft.aspnetcore.components.analyzers.6.0.13.nupkg.sha512",
-    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.13\\microsoft.aspnetcore.components.forms.6.0.13.nupkg.sha512",
-    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.13\\microsoft.aspnetcore.components.web.6.0.13.nupkg.sha512",
-    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.13\\microsoft.aspnetcore.components.webassembly.6.0.13.nupkg.sha512",
-    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\6.0.13\\microsoft.aspnetcore.components.webassembly.devserver.6.0.13.nupkg.sha512",
-    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.13\\microsoft.aspnetcore.metadata.6.0.13.nupkg.sha512",
+    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.14\\microsoft.aspnetcore.authorization.6.0.14.nupkg.sha512",
+    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.14\\microsoft.aspnetcore.components.6.0.14.nupkg.sha512",
+    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.14\\microsoft.aspnetcore.components.analyzers.6.0.14.nupkg.sha512",
+    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.14\\microsoft.aspnetcore.components.forms.6.0.14.nupkg.sha512",
+    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.14\\microsoft.aspnetcore.components.web.6.0.14.nupkg.sha512",
+    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.14\\microsoft.aspnetcore.components.webassembly.6.0.14.nupkg.sha512",
+    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\6.0.14\\microsoft.aspnetcore.components.webassembly.devserver.6.0.14.nupkg.sha512",
+    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.14\\microsoft.aspnetcore.metadata.6.0.14.nupkg.sha512",
     "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
@@ -26,8 +26,8 @@
     "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.3\\microsoft.extensions.logging.abstractions.6.0.3.nupkg.sha512",
     "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.jsinterop\\6.0.13\\microsoft.jsinterop.6.0.13.nupkg.sha512",
-    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.13\\microsoft.jsinterop.webassembly.6.0.13.nupkg.sha512",
+    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.jsinterop\\6.0.14\\microsoft.jsinterop.6.0.14.nupkg.sha512",
+    "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.14\\microsoft.jsinterop.webassembly.6.0.14.nupkg.sha512",
     "C:\\Users\\DVanVuuren\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\DVanVuuren\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\DVanVuuren\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
@@ -35,16 +35,5 @@
     "C:\\Users\\DVanVuuren\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
     "C:\\Users\\DVanVuuren\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.14\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.14.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Shared\\CleanArchExample.Shared.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Shared\\CleanArchExample.Shared.csproj",
-      "targetGraphs": [
-        "net6.0",
-        "net6.0/browser-wasm"
-      ]
-    }
-  ]
+  "logs": []
 }

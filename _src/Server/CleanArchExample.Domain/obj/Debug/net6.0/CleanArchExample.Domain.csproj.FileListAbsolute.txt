@@ -1,0 +1,12 @@
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Domain\bin\Debug\net6.0\CleanArchExample.Domain.deps.json
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Domain\bin\Debug\net6.0\CleanArchExample.Domain.dll
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Domain\bin\Debug\net6.0\CleanArchExample.Domain.pdb
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\CleanArchExample.Domain.csproj.AssemblyReference.cache
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\CleanArchExample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\CleanArchExample.Domain.AssemblyInfoInputs.cache
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\CleanArchExample.Domain.AssemblyInfo.cs
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\CleanArchExample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\CleanArchExample.Domain.dll
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\refint\CleanArchExample.Domain.dll
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\CleanArchExample.Domain.pdb
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Domain\obj\Debug\net6.0\ref\CleanArchExample.Domain.dll

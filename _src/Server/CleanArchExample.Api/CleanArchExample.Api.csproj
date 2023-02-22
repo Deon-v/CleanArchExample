@@ -4,15 +4,26 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>39f5012a-3e65-4d0c-a30d-251d85908bc7</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="6.0.13" />
+    <PackageReference Include="FastEndpoints" Version="5.7.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="6.0.14" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Client\CleanArchExample.Client.csproj" />
-    <ProjectReference Include="..\Shared\CleanArchExample.Shared.csproj" />
+    <Folder Include="Features\WeatherForecast\Contracts\Responses\" />
+    <Folder Include="Features\WeatherForecast\Contracts\Requests\" />
+    <Folder Include="Features\WeatherForecast\Endpoints\" />
+    <Folder Include="Features\WeatherForecast\Mappers\" />
+    <Folder Include="Features\WeatherForecast\Validators\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanArchExample.Application\CleanArchExample.Application.csproj" />
+    <ProjectReference Include="..\CleanArchExample.Infrastructure\CleanArchExample.Infrastructure.csproj" />
   </ItemGroup>
 
 

@@ -1,0 +1,17 @@
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Infrastructure\bin\Debug\net6.0\CleanArchExample.Infrastructure.deps.json
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Infrastructure\bin\Debug\net6.0\CleanArchExample.Infrastructure.dll
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Infrastructure\bin\Debug\net6.0\CleanArchExample.Infrastructure.pdb
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Infrastructure\bin\Debug\net6.0\CleanArchExample.Application.dll
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Infrastructure\bin\Debug\net6.0\CleanArchExample.Domain.dll
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Infrastructure\bin\Debug\net6.0\CleanArchExample.Application.pdb
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Infrastructure\bin\Debug\net6.0\CleanArchExample.Domain.pdb
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Infrastructure\obj\Debug\net6.0\CleanArchExample.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Infrastructure\obj\Debug\net6.0\CleanArchExample.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Infrastructure\obj\Debug\net6.0\CleanArchExample.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Infrastructure\obj\Debug\net6.0\CleanArchExample.Infrastructure.AssemblyInfo.cs
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Infrastructure\obj\Debug\net6.0\CleanArchExample.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Infrastructure\obj\Debug\net6.0\CleanArchExample.Infrastructure.csproj.CopyComplete
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Infrastructure\obj\Debug\net6.0\CleanArchExample.Infrastructure.dll
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Infrastructure\obj\Debug\net6.0\refint\CleanArchExample.Infrastructure.dll
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Infrastructure\obj\Debug\net6.0\CleanArchExample.Infrastructure.pdb
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Infrastructure\obj\Debug\net6.0\ref\CleanArchExample.Infrastructure.dll

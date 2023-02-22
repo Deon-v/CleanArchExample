@@ -1,0 +1,15 @@
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Application\bin\Debug\net6.0\CleanArchExample.Application.deps.json
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Application\bin\Debug\net6.0\CleanArchExample.Application.dll
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Application\bin\Debug\net6.0\CleanArchExample.Application.pdb
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Application\bin\Debug\net6.0\CleanArchExample.Domain.dll
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Application\bin\Debug\net6.0\CleanArchExample.Domain.pdb
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Application\obj\Debug\net6.0\CleanArchExample.Application.csproj.AssemblyReference.cache
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Application\obj\Debug\net6.0\CleanArchExample.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Application\obj\Debug\net6.0\CleanArchExample.Application.AssemblyInfoInputs.cache
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Application\obj\Debug\net6.0\CleanArchExample.Application.AssemblyInfo.cs
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Application\obj\Debug\net6.0\CleanArchExample.Application.csproj.CoreCompileInputs.cache
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Application\obj\Debug\net6.0\CleanArchExample.Application.csproj.CopyComplete
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Application\obj\Debug\net6.0\CleanArchExample.Application.dll
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Application\obj\Debug\net6.0\refint\CleanArchExample.Application.dll
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Application\obj\Debug\net6.0\CleanArchExample.Application.pdb
+C:\Users\DVanVuuren\source\repos\CleanArchExample\_src\Server\CleanArchExample.Application\obj\Debug\net6.0\ref\CleanArchExample.Application.dll
