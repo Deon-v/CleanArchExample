@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="FastEndpoints" Version="5.7.2" />
+    <PackageReference Include="FastEndpoints.Swagger" Version="5.7.2" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="6.0.14" />
   </ItemGroup>
 
@@ -22,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Client\CleanArchExample.Client.csproj" />
     <ProjectReference Include="..\CleanArchExample.Application\CleanArchExample.Application.csproj" />
     <ProjectReference Include="..\CleanArchExample.Infrastructure\CleanArchExample.Infrastructure.csproj" />
   </ItemGroup>

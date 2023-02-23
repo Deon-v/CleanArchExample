@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj": {}
+    "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj": {
+    "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj",
         "projectName": "CleanArchExample.Domain",
-        "projectPath": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj",
-        "packagesPath": "C:\\Users\\vanvu\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\obj\\",
+        "projectPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\CleanArchExample.Domain.csproj",
+        "packagesPath": "C:\\Users\\DVanVuuren\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DVanVuuren\\source\\repos\\CleanArchExample\\_src\\Server\\CleanArchExample.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vanvu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DVanVuuren\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
