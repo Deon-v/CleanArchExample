@@ -1,14 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
+﻿using CleanArchExample.Application.Common.Interfaces;
 using CleanArchExample.Domain.Entities;
 using CleanArchExample.Infrastructure.Persistence.Interceptors;
-using CleanArchExample.Application.Common.Interfaces;
-using Microsoft.Extensions.Options;
+using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 namespace CleanArchExample.Infrastructure.Persistence
 {
@@ -16,9 +10,14 @@ namespace CleanArchExample.Infrastructure.Persistence
     {
         private readonly AuditableEntitySaveChangesInterceptor _auditableEntitySaveChangesInterceptor;
 
+        public DataContext()
+        {
+            
+        }
+
         public DataContext(DbContextOptions options, AuditableEntitySaveChangesInterceptor auditableEntitySaveChangesInterceptor) : base(options)
         {
-
+            _auditableEntitySaveChangesInterceptor = auditableEntitySaveChangesInterceptor;
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
@@ -29,7 +28,7 @@ namespace CleanArchExample.Infrastructure.Persistence
             options.AddInterceptors(_auditableEntitySaveChangesInterceptor);
         }
 
-        public DbSet<WeatherForecast> WeatherForecasts => Set<WeatherForecast>();
+        public DbSet<WeatherForecast> WeatherHistory => Set<WeatherForecast>();
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

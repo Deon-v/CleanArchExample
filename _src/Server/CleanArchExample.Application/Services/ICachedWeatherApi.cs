@@ -1,6 +1,8 @@
-﻿namespace CleanArchExample.Application.Services;
+﻿using CleanArchExample.Domain.Entities;
 
-public interface ICachedWeatherApi : IWeatherService
+namespace CleanArchExample.Application.Services;
+
+public interface ICachedWeatherApi
 {
-
+    public Task<ICollection<WeatherForecast>> GetWeatherForecastsAsync(string city);
 }

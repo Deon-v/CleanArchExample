@@ -6,5 +6,5 @@ namespace CleanArchExample.Application.Common.Interfaces;
 
 public interface IApplicationDbContext
 {
-    DbSet<WeatherForecast> WeatherForecasts { get; }
+    DbSet<WeatherForecast> WeatherHistory { get; }
 }

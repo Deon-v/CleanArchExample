@@ -11,7 +11,7 @@ public class WeatherForecast
 
     public ForecastScale? Summary => TemperatureC switch
     {
-        (< 10) => ForecastScale.Freezing,
+        <= 10 => ForecastScale.Freezing,
         > 10 and <= 18 => ForecastScale.Chilly,
         > 18 and <= 25 => ForecastScale.Mild,
         > 25 and <= 32 => ForecastScale.Warm,

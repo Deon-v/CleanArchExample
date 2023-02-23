@@ -15,7 +15,7 @@ public class GetCityWeatherEndpoint : Endpoint<GetCityWeatherRequest, ICollectio
     }
     public override void Configure()
     {
-        Get("/api/WeatherForecast/{City}");
+        Get("/api/Weather/live/{City}");
         AllowAnonymous();
     }
 

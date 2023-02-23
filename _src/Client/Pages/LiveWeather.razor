@@ -1,4 +1,4 @@
-﻿@page "/fetchdata"
+﻿@page "/live"
 @using CleanArchExample.Client.Data
 @inject HttpClient Http
 
@@ -42,6 +42,6 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("/api/WeatherForecast/london");
+        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("/api/Weather/live/london");
     }
 }

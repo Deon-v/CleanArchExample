@@ -1,10 +1,24 @@
 ﻿using CleanArchExample.Application.Services;
 using CleanArchExample.Domain.Entities;
+using CleanArchExample.Infrastructure.Persistence;
+using Microsoft.EntityFrameworkCore;
 
 namespace CleanArchExample.Infrastructure.Services.Implementations;
 
 public class WeatherService : IWeatherService
 {
+    private readonly DataContext _dataContext;
+    public WeatherService(DataContext dataContext)
+    {
+        _dataContext = dataContext;
+    }
+
+    public async Task<ICollection<WeatherForecast>> GetHistoricWeatherForecastsAsync(string city, DateTime from)
+    {
+        return await _dataContext.WeatherHistory//.Where(w => w.Date >= from)
+            .ToArrayAsync();
+    }
+
     public async Task<ICollection<WeatherForecast>> GetWeatherForecastsAsync(string city)
     {
         return Enumerable.Range(1, 10).Select(index =>

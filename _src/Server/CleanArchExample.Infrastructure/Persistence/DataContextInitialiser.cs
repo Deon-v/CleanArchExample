@@ -48,18 +48,20 @@ public class DataContextInitialiser
 
     public async Task TrySeedAsync()
     {
-        if (!await _context.WeatherForecasts.AnyAsync())
+        if (!await _context.WeatherHistory.AnyAsync())
         {
-            _context.WeatherForecasts.AddRange(Enumerable.Range(1, 5).Select(index =>
+            _context.WeatherHistory.AddRange(Enumerable.Range(1, 10000).Select(index =>
                 {
                     var temprature = Random.Shared.Next(-20, 55);
                     return new WeatherForecast
                     {
-                        Date = DateTime.Now.AddDays(index),
+                        Date = DateTime.Now.AddDays(-index),
                         TemperatureC = temprature
                     };
                 })
                 .ToArray());
+
+            await _context.SaveChangesAsync();
         }
     }
 
